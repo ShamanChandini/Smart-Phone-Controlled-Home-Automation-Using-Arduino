@@ -40,3 +40,7 @@ If we send ‘d’ through Bluetooth Terminal App then both the bulbs will be sw
 10.Node MCU 
 11.Arduino IDE
 
+![pic1](https://user-images.githubusercontent.com/89247662/179388265-533f10f5-4e17-4735-a98a-1ab14afb7290.png)
+
+![pic](https://user-images.githubusercontent.com/89247662/179388272-a88bb78e-6438-446b-b1d9-486b3bec1a33.jpeg)
+
