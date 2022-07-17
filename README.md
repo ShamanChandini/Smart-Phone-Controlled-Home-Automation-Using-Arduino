@@ -15,7 +15,19 @@ Controller board we can control lamps, tubes or any ac power sockets.
 
 You will be able to control all of your ac appliances wirelessly with the help of any device.
 
-# Software requirements:
+# Requirements :
 1.WEB Browser 
 
 2.Arduino IDE
+
+### Components lists
+
+1. Node MCU 
+1 Arduino uno
+2. 5v 4 channel relay module
+3. 5v adapter(https://amzn.to/2STSrLh)
+4. hc-05 bluetooth module
+5. jumper wires 
+6. ac 220v/120v loads/home appliances
+7. android phone
+8. laptop/pc
