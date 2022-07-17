@@ -30,3 +30,10 @@ You will be able to control all of your ac appliances wirelessly with the help o
 10.Node MCU 
 11.Arduino IDE
 
+
+These pins control the relays which in turns control the Appliances. The operation of our project is as follows:
+
+If we send ‘a’ through Bluetooth Terminal App then Bulb1 will be On and Bulb2 will be off.
+If we send ‘b’ through Bluetooth Terminal App then Bulb2 will be On and Bulb1 will be off.
+If we send ‘c’ through Bluetooth Terminal App then both the bulbs will be switched On.
+If we send ‘d’ through Bluetooth Terminal App then both the bulbs will be switched Off. character ‘d’ can be used to switch off individual bulbs too.
